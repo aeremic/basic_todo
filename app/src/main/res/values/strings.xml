@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Easy Todo</string>
+    <string name="todo_text_hint">Enter text</string>
+    <string name="todo_title_label">Todo</string>
+    <string name="todo_details_label">Details</string>
+    <string name="todo_solved_label">Solved</string>
+    <string name="new_todo">New Todo</string>
+    <string name="delete_todo">Delete Todo</string>
+</resources>
